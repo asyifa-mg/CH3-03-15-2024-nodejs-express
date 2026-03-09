@@ -62,11 +62,5 @@
     ],
     "greeting": "Hello, Diann Reese! You have 1 unread messages.",
     "favoriteFruit": "apple"
-  },
-  { "name": "asyifa", "status": "cantik" },
-  { "name": "asyifa", "status": "cantik" },
-  null,
-  { "name": "asyifa", "status": "cantik" },
-  { "name": "asyifa", "status": "yaa" },
-  { "name": "asyifa", "status": "yaa" }
+  }
 ]
